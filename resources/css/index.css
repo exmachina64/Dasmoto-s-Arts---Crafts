@@ -29,3 +29,9 @@ h1 {
     color: white;
     background-color: skyblue;
 }
+
+span {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
