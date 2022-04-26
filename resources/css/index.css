@@ -1,37 +1,33 @@
+* {
+    font-family: Helvetica;  
+}
+
 h1 {
-    font-family: Helvetica;
     font-size: 100px;
     font-weight: bold;
     color: khaki;
     text-align: center;
+    background-image: url(/resources/images/pattern.webp);
 }
 
-#Brushes {
-    font-family: Helvetica;
-    font-size: 32px;
-    font-weight: bold;
-    color: white;
+h2 {
+    color:#fff;
+    font-size: 32px;  
+}
+
+.Brushes {
     background-color: mediumspringgreen;
 }
 
-#Frames {
-    font-family: Helvetica;
-    font-size: 32px;
-    font-weight: bold;
-    color: white;
+.Frames {
     background-color: lightcoral;
 }
 
-#Paint {
-    font-family: Helvetica;
-    font-size: 32px;
-    font-weight: bold;
-    color: white;
+.Paint {
     background-color: skyblue;
 }
 
 span {
-    font-family: Helvetica;
-    font-weight: bold;
     color: blue;
+    font-weight: 700;
 }
